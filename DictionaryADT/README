@@ -4,10 +4,13 @@
 * README
 * file table of contents
 *********************************************************************************/ 
+A dictionary ADT built on a binary search tree. The top level client sorts and 
+output the keys in lexicographic order before printing the keys in a pre-order 
+traversal.
 
 Makefile - creates excutable for Dictionary ADT and related files
 Dictionary.h - function declarations for the Dictionary ADT
 Dictionary.cpp - Dictionary ADT implementation
 DictionaryTest.cpp - personal test client for the Dicitonary ADT
-Order.cpp - top level client that creates dicitonaries based on input and output files
+Order.cpp - top level client, creates dicitonaries based on input and output files
 README - This file!
