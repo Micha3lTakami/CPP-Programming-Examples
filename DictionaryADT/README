@@ -11,6 +11,5 @@ traversal.
 Makefile - creates excutable for Dictionary ADT and related files
 Dictionary.h - function declarations for the Dictionary ADT
 Dictionary.cpp - Dictionary ADT implementation
-DictionaryTest.cpp - personal test client for the Dicitonary ADT
 Order.cpp - top level client, creates dicitonaries based on input and output files
 README - This file!
