@@ -1,2 +1,2 @@
 # C-Programming-Examples
-A few casual projects created in C++
+Casual projects created in C++
