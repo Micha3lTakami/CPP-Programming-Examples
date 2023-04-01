@@ -1,1 +1,13 @@
-yur
+/*********************************************************************************
+* Michael Takami, mtakami 
+* 2023 Winter 
+* README
+* file table of contents
+*********************************************************************************/ 
+
+Makefile - creates excutable for Dictionary ADT and related files
+Dictionary.h - function declarations for the Dictionary ADT
+Dictionary.cpp - Dictionary ADT implementation
+DictionaryTest.cpp - personal test client for the Dicitonary ADT
+Order.cpp - top level client that creates dicitonaries based on input and output files
+README - This file!
