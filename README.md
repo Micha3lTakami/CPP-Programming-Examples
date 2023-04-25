@@ -1,2 +1,2 @@
 # CPP-Programming-Examples
-Casual projects created in C++
+Programs implementing various abstract data types in C++
